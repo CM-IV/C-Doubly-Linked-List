@@ -1,2 +1,2 @@
 # Git-VS-Code-repo
-These are C++ projects
+A C++ doubly linked list datastructure
